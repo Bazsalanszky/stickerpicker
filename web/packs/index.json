@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "Nuti_csibe.json"
+  ],
+  "homeserver_url": "https://matrix.toldi.eu"
+}
